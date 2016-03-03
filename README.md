@@ -1,3 +1,4 @@
 # Binary Search
-Binary Search is a recursive (divide and conquer) algorithm which is running in O(lg n)
-It's a better way comparing to sequential search (O(n))
+
+- Binary search a divide and conquer algorithm which runs in **O(lg n)**
+- It's a better algorithm comparing to sequential search (linear search **O(n)**)
